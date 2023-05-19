@@ -2,7 +2,7 @@
 Fitness website, Responsive with all devices <br>
 build with: <br>
 -Html, <br>
--Css <br>
+-Sacc <br>
 -Js <br> 
 use slider js
 <br>
